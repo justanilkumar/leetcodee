@@ -15,6 +15,6 @@ public:
             first = (first==NULL)?headB:first->next;
             second = (second==NULL)?headA:second->next;
         }
-        return first;
+        return second;
     }
 };
