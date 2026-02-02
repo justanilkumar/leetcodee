@@ -14,7 +14,7 @@ public:
                 total += m[PrefixSum - k];
             }
 
-            m[PrefixSum]++;   
+            m[PrefixSum]++;   // always update
         }
         return total;
     }
