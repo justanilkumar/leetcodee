@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/justanilkumar/leetcodee/tree/master/0198-house-robber) |
 | [0560-subarray-sum-equals-k](https://github.com/justanilkumar/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justanilkumar/leetcodee/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [3637-trionic-array-i](https://github.com/justanilkumar/leetcodee/tree/master/3637-trionic-array-i) |
 ## Backtracking
 |  |
 | ------- |
