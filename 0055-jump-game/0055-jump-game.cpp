@@ -8,6 +8,6 @@ public:
 
             maxReach=max(maxReach,i+nums[i]);
         }
-        return maxReach;
+        return true;
     }
 };
