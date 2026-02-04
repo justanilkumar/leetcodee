@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/justanilkumar/leetcodee/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/justanilkumar/leetcodee/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/justanilkumar/leetcodee/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/justanilkumar/leetcodee/tree/master/0055-jump-game) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/justanilkumar/leetcodee/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/justanilkumar/leetcodee/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/justanilkumar/leetcodee/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/justanilkumar/leetcodee/tree/master/0198-house-robber) |
@@ -114,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/justanilkumar/leetcodee/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/justanilkumar/leetcodee/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
