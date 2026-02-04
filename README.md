@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/justanilkumar/leetcodee/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/justanilkumar/leetcodee/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/0701-insert-into-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/justanilkumar/leetcodee/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
