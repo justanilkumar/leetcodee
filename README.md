@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/justanilkumar/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/justanilkumar/leetcodee/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/justanilkumar/leetcodee/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/justanilkumar/leetcodee/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justanilkumar/leetcodee/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3379-transformed-array](https://github.com/justanilkumar/leetcodee/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/justanilkumar/leetcodee/tree/master/3637-trionic-array-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/justanilkumar/leetcodee/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/justanilkumar/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/justanilkumar/leetcodee/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/justanilkumar/leetcodee/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -134,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/justanilkumar/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/justanilkumar/leetcodee/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/justanilkumar/leetcodee/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
