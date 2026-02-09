@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/justanilkumar/leetcodee/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/justanilkumar/leetcodee/tree/master/0148-sort-list) |
+| [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -133,15 +134,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/0110-balanced-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/0110-balanced-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/justanilkumar/leetcodee/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/justanilkumar/leetcodee/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/justanilkumar/leetcodee/tree/master/0455-assign-cookies) |
+| [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -181,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
