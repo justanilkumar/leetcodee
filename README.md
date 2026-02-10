@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/justanilkumar/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/justanilkumar/leetcodee/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/justanilkumar/leetcodee/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/justanilkumar/leetcodee/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/justanilkumar/leetcodee/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justanilkumar/leetcodee/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/justanilkumar/leetcodee/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/justanilkumar/leetcodee/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/justanilkumar/leetcodee/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/justanilkumar/leetcodee/tree/master/0237-delete-node-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/justanilkumar/leetcodee/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/justanilkumar/leetcodee/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -186,10 +188,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/justanilkumar/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/justanilkumar/leetcodee/tree/master/0622-design-circular-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/justanilkumar/leetcodee/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/justanilkumar/leetcodee/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
