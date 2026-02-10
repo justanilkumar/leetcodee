@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/justanilkumar/leetcodee/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/justanilkumar/leetcodee/tree/master/1748-sum-of-unique-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/justanilkumar/leetcodee/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/justanilkumar/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
 | [3379-transformed-array](https://github.com/justanilkumar/leetcodee/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/justanilkumar/leetcodee/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/justanilkumar/leetcodee/tree/master/3637-trionic-array-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/justanilkumar/leetcodee/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/justanilkumar/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
 | [3379-transformed-array](https://github.com/justanilkumar/leetcodee/tree/master/3379-transformed-array) |
 ## Monotonic Stack
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/justanilkumar/leetcodee/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/justanilkumar/leetcodee/tree/master/0641-design-circular-deque) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/justanilkumar/leetcodee/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/justanilkumar/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
 ## Depth-First Search
 |  |
 | ------- |
