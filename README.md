@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/justanilkumar/leetcodee/tree/master/0222-count-complete-tree-nodes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justanilkumar/leetcodee/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Recursion
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/justanilkumar/leetcodee/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/justanilkumar/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/justanilkumar/leetcodee/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/justanilkumar/leetcodee/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/justanilkumar/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/justanilkumar/leetcodee/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/justanilkumar/leetcodee/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/justanilkumar/leetcodee/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
