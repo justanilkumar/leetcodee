@@ -1,53 +1,33 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    int maxSum = 0;
-    
-    struct Info {
-        bool isBST;
-        int sum;
-        int minVal;
-        int maxVal;
-    };
-    
-    Info solve(TreeNode* root) {
+    int ans = 0;
+
+    vector<int> solve(TreeNode* root) {
         if (!root) 
-            return {true, 0, INT_MAX, INT_MIN};
-        
-        Info left = solve(root->left);
-        Info right = solve(root->right);
-        
+            return {1, 0, INT_MAX, INT_MIN}; 
+        // {isBST, sum, min, max}
+
+        auto left = solve(root->left);
+        auto right = solve(root->right);
+
         // Check BST condition
-        if (left.isBST && right.isBST && 
-            root->val > left.maxVal && 
-            root->val < right.minVal) {
-            
-            int currSum = left.sum + right.sum + root->val;
-            maxSum = max(maxSum, currSum);
-            
-            return {
-                true,
-                currSum,
-                min(root->val, left.minVal),
-                max(root->val, right.maxVal)
-            };
+        if (left[0] && right[0] && 
+            root->val > left[3] && 
+            root->val < right[2]) {
+
+            int sum = left[1] + right[1] + root->val;
+            ans = max(ans, sum);
+
+            return {1, sum,
+                    min(root->val, left[2]),
+                    max(root->val, right[3])};
         }
-        
-        return {false, 0, 0, 0};
+
+        return {0, 0, 0, 0};
     }
-    
+
     int maxSumBST(TreeNode* root) {
         solve(root);
-        return maxSum;
+        return ans;
     }
 };
