@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/justanilkumar/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/justanilkumar/leetcodee/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/justanilkumar/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/justanilkumar/leetcodee/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/justanilkumar/leetcodee/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/justanilkumar/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/justanilkumar/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/justanilkumar/leetcodee/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/justanilkumar/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/justanilkumar/leetcodee/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/justanilkumar/leetcodee/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/justanilkumar/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/justanilkumar/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/justanilkumar/leetcodee/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/justanilkumar/leetcodee/tree/master/0617-merge-two-binary-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
