@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/justanilkumar/leetcodee/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/justanilkumar/leetcodee/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/justanilkumar/leetcodee/tree/master/0392-is-subsequence) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -161,12 +162,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/justanilkumar/leetcodee/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/justanilkumar/leetcodee/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/justanilkumar/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/justanilkumar/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/justanilkumar/leetcodee/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/justanilkumar/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/justanilkumar/leetcodee/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/justanilkumar/leetcodee/tree/master/0617-merge-two-binary-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Design
 |  |
