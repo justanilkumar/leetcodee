@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/justanilkumar/leetcodee/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/justanilkumar/leetcodee/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/justanilkumar/leetcodee/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/justanilkumar/leetcodee/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/justanilkumar/leetcodee/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/justanilkumar/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/justanilkumar/leetcodee/tree/master/0503-next-greater-element-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/justanilkumar/leetcodee/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/justanilkumar/leetcodee/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/justanilkumar/leetcodee/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/justanilkumar/leetcodee/tree/master/0435-non-overlapping-intervals) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/justanilkumar/leetcodee/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/justanilkumar/leetcodee/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/justanilkumar/leetcodee/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/justanilkumar/leetcodee/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/justanilkumar/leetcodee/tree/master/0455-assign-cookies) |
 | [0761-special-binary-string](https://github.com/justanilkumar/leetcodee/tree/master/0761-special-binary-string) |
 | [3634-minimum-removals-to-balance-array](https://github.com/justanilkumar/leetcodee/tree/master/3634-minimum-removals-to-balance-array) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/justanilkumar/leetcodee/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/justanilkumar/leetcodee/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/justanilkumar/leetcodee/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/justanilkumar/leetcodee/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 ## Simulation
