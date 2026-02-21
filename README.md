@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/justanilkumar/leetcodee/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/justanilkumar/leetcodee/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/justanilkumar/leetcodee/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/justanilkumar/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/justanilkumar/leetcodee/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/justanilkumar/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/justanilkumar/leetcodee/tree/master/0503-next-greater-element-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/justanilkumar/leetcodee/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/justanilkumar/leetcodee/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/justanilkumar/leetcodee/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/justanilkumar/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/justanilkumar/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/justanilkumar/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/justanilkumar/leetcodee/tree/master/0560-subarray-sum-equals-k) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/justanilkumar/leetcodee/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/justanilkumar/leetcodee/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/justanilkumar/leetcodee/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/justanilkumar/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/justanilkumar/leetcodee/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/justanilkumar/leetcodee/tree/master/1382-balance-a-binary-search-tree) |
 | [3721-longest-balanced-subarray-ii](https://github.com/justanilkumar/leetcodee/tree/master/3721-longest-balanced-subarray-ii) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/justanilkumar/leetcodee/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/justanilkumar/leetcodee/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/justanilkumar/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/justanilkumar/leetcodee/tree/master/0455-assign-cookies) |
 | [0761-special-binary-string](https://github.com/justanilkumar/leetcodee/tree/master/0761-special-binary-string) |
 | [3634-minimum-removals-to-balance-array](https://github.com/justanilkumar/leetcodee/tree/master/3634-minimum-removals-to-balance-array) |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/justanilkumar/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/justanilkumar/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/justanilkumar/leetcodee/tree/master/1748-sum-of-unique-elements) |
 ## Queue
@@ -270,4 +275,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/justanilkumar/leetcodee/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/justanilkumar/leetcodee/tree/master/0222-count-complete-tree-nodes) |
 | [0693-binary-number-with-alternating-bits](https://github.com/justanilkumar/leetcodee/tree/master/0693-binary-number-with-alternating-bits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/justanilkumar/leetcodee/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/justanilkumar/leetcodee/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/justanilkumar/leetcodee/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
