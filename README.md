@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/justanilkumar/leetcodee/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/justanilkumar/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/justanilkumar/leetcodee/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/justanilkumar/leetcodee/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/justanilkumar/leetcodee/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/justanilkumar/leetcodee/tree/master/0222-count-complete-tree-nodes) |
 | [0693-binary-number-with-alternating-bits](https://github.com/justanilkumar/leetcodee/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/justanilkumar/leetcodee/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
