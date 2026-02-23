@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/justanilkumar/leetcodee/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justanilkumar/leetcodee/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/justanilkumar/leetcodee/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1219-path-with-maximum-gold](https://github.com/justanilkumar/leetcodee/tree/master/1219-path-with-maximum-gold) |
 | [1748-sum-of-unique-elements](https://github.com/justanilkumar/leetcodee/tree/master/1748-sum-of-unique-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/justanilkumar/leetcodee/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/justanilkumar/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/justanilkumar/leetcodee/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/justanilkumar/leetcodee/tree/master/0079-word-search) |
+| [1219-path-with-maximum-gold](https://github.com/justanilkumar/leetcodee/tree/master/1219-path-with-maximum-gold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/justanilkumar/leetcodee/tree/master/0079-word-search) |
+| [1219-path-with-maximum-gold](https://github.com/justanilkumar/leetcodee/tree/master/1219-path-with-maximum-gold) |
 ## Rolling Hash
 |  |
 | ------- |
