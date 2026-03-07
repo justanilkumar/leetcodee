@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/justanilkumar/leetcodee/tree/master/0796-rotate-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/justanilkumar/leetcodee/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/justanilkumar/leetcodee/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/justanilkumar/leetcodee/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/justanilkumar/leetcodee/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/justanilkumar/leetcodee/tree/master/0746-min-cost-climbing-stairs) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/justanilkumar/leetcodee/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Linked List
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/justanilkumar/leetcodee/tree/master/0219-contains-duplicate-ii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/justanilkumar/leetcodee/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3634-minimum-removals-to-balance-array](https://github.com/justanilkumar/leetcodee/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
