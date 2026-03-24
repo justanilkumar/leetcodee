@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/justanilkumar/leetcodee/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/justanilkumar/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
 | [2498-frog-jump-ii](https://github.com/justanilkumar/leetcodee/tree/master/2498-frog-jump-ii) |
+| [2906-construct-product-matrix](https://github.com/justanilkumar/leetcodee/tree/master/2906-construct-product-matrix) |
 | [3379-transformed-array](https://github.com/justanilkumar/leetcodee/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/justanilkumar/leetcodee/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/justanilkumar/leetcodee/tree/master/3637-trionic-array-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/justanilkumar/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/justanilkumar/leetcodee/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2906-construct-product-matrix](https://github.com/justanilkumar/leetcodee/tree/master/2906-construct-product-matrix) |
 | [3721-longest-balanced-subarray-ii](https://github.com/justanilkumar/leetcodee/tree/master/3721-longest-balanced-subarray-ii) |
 ## Tree
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/justanilkumar/leetcodee/tree/master/0079-word-search) |
 | [1219-path-with-maximum-gold](https://github.com/justanilkumar/leetcodee/tree/master/1219-path-with-maximum-gold) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/justanilkumar/leetcodee/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2906-construct-product-matrix](https://github.com/justanilkumar/leetcodee/tree/master/2906-construct-product-matrix) |
 ## Rolling Hash
 |  |
 | ------- |
