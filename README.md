@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/justanilkumar/leetcodee/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/justanilkumar/leetcodee/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/justanilkumar/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/justanilkumar/leetcodee/tree/master/0392-is-subsequence) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/justanilkumar/leetcodee/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/justanilkumar/leetcodee/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/justanilkumar/leetcodee/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/justanilkumar/leetcodee/tree/master/0055-jump-game) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/justanilkumar/leetcodee/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/justanilkumar/leetcodee/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/justanilkumar/leetcodee/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/justanilkumar/leetcodee/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/justanilkumar/leetcodee/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/justanilkumar/leetcodee/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/justanilkumar/leetcodee/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/justanilkumar/leetcodee/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/justanilkumar/leetcodee/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/justanilkumar/leetcodee/tree/master/0435-non-overlapping-intervals) |
