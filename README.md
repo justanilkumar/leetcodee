@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/justanilkumar/leetcodee/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/justanilkumar/leetcodee/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/justanilkumar/leetcodee/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/justanilkumar/leetcodee/tree/master/0079-word-search) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/justanilkumar/leetcodee/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/justanilkumar/leetcodee/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/justanilkumar/leetcodee/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/justanilkumar/leetcodee/tree/master/0387-first-unique-character-in-a-string) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/justanilkumar/leetcodee/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/justanilkumar/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/justanilkumar/leetcodee/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/justanilkumar/leetcodee/tree/master/0045-jump-game-ii) |
