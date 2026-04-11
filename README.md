@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/justanilkumar/leetcodee/tree/master/1748-sum-of-unique-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/justanilkumar/leetcodee/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/justanilkumar/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/justanilkumar/leetcodee/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2498-frog-jump-ii](https://github.com/justanilkumar/leetcodee/tree/master/2498-frog-jump-ii) |
 | [2751-robot-collisions](https://github.com/justanilkumar/leetcodee/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/justanilkumar/leetcodee/tree/master/2906-construct-product-matrix) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/justanilkumar/leetcodee/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/justanilkumar/leetcodee/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1748-sum-of-unique-elements](https://github.com/justanilkumar/leetcodee/tree/master/1748-sum-of-unique-elements) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/justanilkumar/leetcodee/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/justanilkumar/leetcodee/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/justanilkumar/leetcodee/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/justanilkumar/leetcodee/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/justanilkumar/leetcodee/tree/master/0239-sliding-window-maximum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/justanilkumar/leetcodee/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/justanilkumar/leetcodee/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3634-minimum-removals-to-balance-array](https://github.com/justanilkumar/leetcodee/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
