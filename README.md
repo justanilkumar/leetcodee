@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/justanilkumar/leetcodee/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/justanilkumar/leetcodee/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/justanilkumar/leetcodee/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/justanilkumar/leetcodee/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/justanilkumar/leetcodee/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/justanilkumar/leetcodee/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/justanilkumar/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/justanilkumar/leetcodee/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/justanilkumar/leetcodee/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/justanilkumar/leetcodee/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/justanilkumar/leetcodee/tree/master/0347-top-k-frequent-elements) |
