@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/justanilkumar/leetcodee/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/justanilkumar/leetcodee/tree/master/1748-sum-of-unique-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/justanilkumar/leetcodee/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/justanilkumar/leetcodee/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/justanilkumar/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/justanilkumar/leetcodee/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2498-frog-jump-ii](https://github.com/justanilkumar/leetcodee/tree/master/2498-frog-jump-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/justanilkumar/leetcodee/tree/master/0319-bulb-switcher) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/justanilkumar/leetcodee/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/justanilkumar/leetcodee/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/justanilkumar/leetcodee/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/justanilkumar/leetcodee/tree/master/0455-assign-cookies) |
 | [0761-special-binary-string](https://github.com/justanilkumar/leetcodee/tree/master/0761-special-binary-string) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/justanilkumar/leetcodee/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/justanilkumar/leetcodee/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2751-robot-collisions](https://github.com/justanilkumar/leetcodee/tree/master/2751-robot-collisions) |
 | [3634-minimum-removals-to-balance-array](https://github.com/justanilkumar/leetcodee/tree/master/3634-minimum-removals-to-balance-array) |
 ## Merge Sort
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/justanilkumar/leetcodee/tree/master/0079-word-search) |
 | [1219-path-with-maximum-gold](https://github.com/justanilkumar/leetcodee/tree/master/1219-path-with-maximum-gold) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/justanilkumar/leetcodee/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/justanilkumar/leetcodee/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/justanilkumar/leetcodee/tree/master/2906-construct-product-matrix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/justanilkumar/leetcodee/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Rolling Hash
