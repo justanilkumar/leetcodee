@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/justanilkumar/leetcodee/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/justanilkumar/leetcodee/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/justanilkumar/leetcodee/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/justanilkumar/leetcodee/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/justanilkumar/leetcodee/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/justanilkumar/leetcodee/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/justanilkumar/leetcodee/tree/master/0455-assign-cookies) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/justanilkumar/leetcodee/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/justanilkumar/leetcodee/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/justanilkumar/leetcodee/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/justanilkumar/leetcodee/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/justanilkumar/leetcodee/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/justanilkumar/leetcodee/tree/master/0746-min-cost-climbing-stairs) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/justanilkumar/leetcodee/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/justanilkumar/leetcodee/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/justanilkumar/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0319-bulb-switcher](https://github.com/justanilkumar/leetcodee/tree/master/0319-bulb-switcher) |
+| [0396-rotate-function](https://github.com/justanilkumar/leetcodee/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/justanilkumar/leetcodee/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/justanilkumar/leetcodee/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/justanilkumar/leetcodee/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
