@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/justanilkumar/leetcodee/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/justanilkumar/leetcodee/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/justanilkumar/leetcodee/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/justanilkumar/leetcodee/tree/master/0042-trapping-rain-water) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/justanilkumar/leetcodee/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/justanilkumar/leetcodee/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/justanilkumar/leetcodee/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/justanilkumar/leetcodee/tree/master/0142-linked-list-cycle-ii) |
