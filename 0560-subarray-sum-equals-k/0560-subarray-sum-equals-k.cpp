@@ -1,24 +1,24 @@
 class Solution {
 public:
-    int subarraySum(vector<int>& nums, int k) {
-        int n = nums.size();
-        int sum = 0;
-        unordered_map<int, int> preSumMap; 
-        preSumMap[0] = 1;   // Important!
-        
-        int count = 0;
+    int subarraySum(vector<int>& arr, int k) {
+        unordered_map<int, int> mpp;
 
-        for (int i = 0; i < n; i++) {
-            sum += nums[i];
+    mpp[0] = 1;
 
-            int rem = sum - k;
-            if (preSumMap.find(rem) != preSumMap.end()) {
-                count += preSumMap[rem];
-            }
+    int preSum = 0;
+    int cnt = 0;
 
-            preSumMap[sum]++;
-        }
+    for(int i = 0; i < arr.size(); i++) {
 
-        return count;
+        preSum += arr[i];
+
+        int remove = preSum - k;
+
+        cnt += mpp[remove];
+
+        mpp[preSum] += 1;
+    }
+
+    return cnt;
     }
 };
