@@ -11,7 +11,7 @@ public:
             int rem = (sum % k + k) % k; // handle negative
             
             ans += mp[rem];
-            mp[rem]++;
+            mp[rem]+=1;
         }
         
         return ans;
