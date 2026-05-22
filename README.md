@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/justanilkumar/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/justanilkumar/leetcodee/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/justanilkumar/leetcodee/tree/master/0641-design-circular-deque) |
+| [0724-find-pivot-index](https://github.com/justanilkumar/leetcodee/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/justanilkumar/leetcodee/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justanilkumar/leetcodee/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/justanilkumar/leetcodee/tree/master/0746-min-cost-climbing-stairs) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/justanilkumar/leetcodee/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/justanilkumar/leetcodee/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/justanilkumar/leetcodee/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2906-construct-product-matrix](https://github.com/justanilkumar/leetcodee/tree/master/2906-construct-product-matrix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/justanilkumar/leetcodee/tree/master/3548-equal-sum-grid-partition-ii) |
