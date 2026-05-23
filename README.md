@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/justanilkumar/leetcodee/tree/master/1219-path-with-maximum-gold) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/justanilkumar/leetcodee/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/justanilkumar/leetcodee/tree/master/1748-sum-of-unique-elements) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/justanilkumar/leetcodee/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/justanilkumar/leetcodee/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/justanilkumar/leetcodee/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/justanilkumar/leetcodee/tree/master/2073-time-needed-to-buy-tickets) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/justanilkumar/leetcodee/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justanilkumar/leetcodee/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/justanilkumar/leetcodee/tree/master/0875-koko-eating-bananas) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/justanilkumar/leetcodee/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2498-frog-jump-ii](https://github.com/justanilkumar/leetcodee/tree/master/2498-frog-jump-ii) |
 ## Recursion
 |  |
