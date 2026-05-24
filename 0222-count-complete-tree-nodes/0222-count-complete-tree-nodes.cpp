@@ -12,11 +12,7 @@
 class Solution {
 public:
     int countNodes(TreeNode* root) {
-        
         if(root==NULL) return 0;
-        int a= countNodes(root->left);
-    int b= countNodes(root->right);
-        return a+b+1;
-
+        return  countNodes(root->left)+ countNodes(root->right)+1;
     }
 };
