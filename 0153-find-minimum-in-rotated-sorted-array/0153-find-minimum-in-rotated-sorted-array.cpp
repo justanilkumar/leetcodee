@@ -16,9 +16,9 @@ public:
         }
         // right half is sorted
         else {
-
+ high = mid - 1;
             ans = min(ans, arr[mid]);
-            high = mid - 1;
+           
         }
     }
 
