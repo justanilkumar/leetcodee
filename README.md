@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/justanilkumar/leetcodee/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/justanilkumar/leetcodee/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/justanilkumar/leetcodee/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/justanilkumar/leetcodee/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/justanilkumar/leetcodee/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/justanilkumar/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/justanilkumar/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/justanilkumar/leetcodee/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/justanilkumar/leetcodee/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/justanilkumar/leetcodee/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/justanilkumar/leetcodee/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/justanilkumar/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/justanilkumar/leetcodee/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/justanilkumar/leetcodee/tree/master/0319-bulb-switcher) |
