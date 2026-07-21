@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/justanilkumar/leetcodee/tree/master/2498-frog-jump-ii) |
 | [2751-robot-collisions](https://github.com/justanilkumar/leetcodee/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/justanilkumar/leetcodee/tree/master/2906-construct-product-matrix) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/justanilkumar/leetcodee/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3379-transformed-array](https://github.com/justanilkumar/leetcodee/tree/master/3379-transformed-array) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/justanilkumar/leetcodee/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/justanilkumar/leetcodee/tree/master/3634-minimum-removals-to-balance-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/justanilkumar/leetcodee/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1748-sum-of-unique-elements](https://github.com/justanilkumar/leetcodee/tree/master/1748-sum-of-unique-elements) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/justanilkumar/leetcodee/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/justanilkumar/leetcodee/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/justanilkumar/leetcodee/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/justanilkumar/leetcodee/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
