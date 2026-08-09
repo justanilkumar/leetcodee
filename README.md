@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/justanilkumar/leetcodee/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-last-stone-weight](https://github.com/justanilkumar/leetcodee/tree/master/1046-last-stone-weight) |
 | [1219-path-with-maximum-gold](https://github.com/justanilkumar/leetcodee/tree/master/1219-path-with-maximum-gold) |
+| [1436-destination-city](https://github.com/justanilkumar/leetcodee/tree/master/1436-destination-city) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/justanilkumar/leetcodee/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/justanilkumar/leetcodee/tree/master/1748-sum-of-unique-elements) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/justanilkumar/leetcodee/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/justanilkumar/leetcodee/tree/master/0720-longest-word-in-dictionary) |
 | [0761-special-binary-string](https://github.com/justanilkumar/leetcodee/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/justanilkumar/leetcodee/tree/master/0796-rotate-string) |
+| [1436-destination-city](https://github.com/justanilkumar/leetcodee/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/justanilkumar/leetcodee/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/justanilkumar/leetcodee/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/justanilkumar/leetcodee/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/justanilkumar/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/justanilkumar/leetcodee/tree/master/0720-longest-word-in-dictionary) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/justanilkumar/leetcodee/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1436-destination-city](https://github.com/justanilkumar/leetcodee/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/justanilkumar/leetcodee/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1748-sum-of-unique-elements](https://github.com/justanilkumar/leetcodee/tree/master/1748-sum-of-unique-elements) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/justanilkumar/leetcodee/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
