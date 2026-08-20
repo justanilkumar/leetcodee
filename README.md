@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/justanilkumar/leetcodee/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/justanilkumar/leetcodee/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/justanilkumar/leetcodee/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/justanilkumar/leetcodee/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/justanilkumar/leetcodee/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/justanilkumar/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/justanilkumar/leetcodee/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/justanilkumar/leetcodee/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/justanilkumar/leetcodee/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/justanilkumar/leetcodee/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/justanilkumar/leetcodee/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/justanilkumar/leetcodee/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/justanilkumar/leetcodee/tree/master/0142-linked-list-cycle-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/justanilkumar/leetcodee/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/justanilkumar/leetcodee/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/justanilkumar/leetcodee/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/justanilkumar/leetcodee/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/justanilkumar/leetcodee/tree/master/0347-top-k-frequent-elements) |
@@ -469,4 +472,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/justanilkumar/leetcodee/tree/master/0720-longest-word-in-dictionary) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/justanilkumar/leetcodee/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/justanilkumar/leetcodee/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
