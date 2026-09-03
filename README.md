@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justanilkumar/leetcodee/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/justanilkumar/leetcodee/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/justanilkumar/leetcodee/tree/master/0875-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/justanilkumar/leetcodee/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/justanilkumar/leetcodee/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-last-stone-weight](https://github.com/justanilkumar/leetcodee/tree/master/1046-last-stone-weight) |
 | [1219-path-with-maximum-gold](https://github.com/justanilkumar/leetcodee/tree/master/1219-path-with-maximum-gold) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/justanilkumar/leetcodee/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/justanilkumar/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/justanilkumar/leetcodee/tree/master/0720-longest-word-in-dictionary) |
+| [0930-binary-subarrays-with-sum](https://github.com/justanilkumar/leetcodee/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/justanilkumar/leetcodee/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1436-destination-city](https://github.com/justanilkumar/leetcodee/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/justanilkumar/leetcodee/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/justanilkumar/leetcodee/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/justanilkumar/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/justanilkumar/leetcodee/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/justanilkumar/leetcodee/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/justanilkumar/leetcodee/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2906-construct-product-matrix](https://github.com/justanilkumar/leetcodee/tree/master/2906-construct-product-matrix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/justanilkumar/leetcodee/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/justanilkumar/leetcodee/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/justanilkumar/leetcodee/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/justanilkumar/leetcodee/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/justanilkumar/leetcodee/tree/master/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/justanilkumar/leetcodee/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/justanilkumar/leetcodee/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/justanilkumar/leetcodee/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
