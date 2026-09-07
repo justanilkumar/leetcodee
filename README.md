@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/justanilkumar/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/justanilkumar/leetcodee/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/justanilkumar/leetcodee/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/justanilkumar/leetcodee/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/justanilkumar/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/justanilkumar/leetcodee/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/justanilkumar/leetcodee/tree/master/0628-maximum-product-of-three-numbers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/justanilkumar/leetcodee/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/justanilkumar/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/justanilkumar/leetcodee/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/justanilkumar/leetcodee/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/justanilkumar/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/justanilkumar/leetcodee/tree/master/0720-longest-word-in-dictionary) |
 | [0930-binary-subarrays-with-sum](https://github.com/justanilkumar/leetcodee/tree/master/0930-binary-subarrays-with-sum) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/justanilkumar/leetcodee/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/justanilkumar/leetcodee/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/justanilkumar/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/justanilkumar/leetcodee/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/justanilkumar/leetcodee/tree/master/0930-binary-subarrays-with-sum) |
